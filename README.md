@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-* I am the co-host of an educational [video series](https://www.pointfree.co) focused on functional programming and the Swift programming language.
-* I contribute to open source projets on the [pointfreeco](https://github.com/pointfreeco) GitHub organization.
-* I (infrequently) blog on [Few, but ripe](http://fewbutripe.com).
-* Videos of presentations I have given can be found [here](https://www.fewbutripe.com/talks/).
-* I am available [for hire](https://www.fewbutripe.com/hire-me/).
+* [Point-Free](https://www.pointfree.co): I am the co-host of an educational video series focused on functional programming and the Swift programming language.
+* [Open source](https://github.com/pointfreeco): I contribute to open source projets on the  GitHub organization.
+* [Few, but ripe](http://fewbutripe.com): I (infrequently) blog on this site.
+* [Talks](https://www.fewbutripe.com/talks/): Videos of presentations I have given can be found here.
+* [For hire](https://www.fewbutripe.com/hire-me/): I am available for consulting work.
