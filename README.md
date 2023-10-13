@@ -6,4 +6,4 @@ Some things I work on:
 * [Open source](https://github.com/pointfreeco): I contribute to open source projects.
 * [Few, but ripe](http://fewbutripe.com): I (infrequently) blog on this site.
 * [Talks](https://www.fewbutripe.com/talks/): Videos of presentations I have given can be found here.
-* [For hire](https://www.fewbutripe.com/hire-me/): I am available for consulting work.
+<!--* [For hire](https://www.fewbutripe.com/hire-me/): I am available for consulting work.-->
